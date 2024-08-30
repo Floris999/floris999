@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Floris van Dinteren-Nuijten</h1>
-<h3 align="center">A passionate frontend developer from the Netherlands</h3>
+<h1 align="center">Hi 👋, my name is Floris</h1>
+<h3 align="center">A passionate web developer from the Netherlands</h3>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/54101/magic-cube-cube-puzzle-play-54101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=floris999&label=Profile%20views&color=0e75b6&style=flat" alt="floris999" /> </p>
 
-- 🌱 I’m currently learning **Vue.js PHP**
+- 🌱 I’m currently learning **React, (OOP) PHP, Laravel**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Vue**
+- 💬 Ask me about **HTML, CSS, Javascript, Vue, PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
